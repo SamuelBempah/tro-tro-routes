@@ -1,0 +1,20 @@
+[
+  {
+    "from_location": "Accra",
+    "to_location": "Kumasi",
+    "min_price": 8.00,
+    "max_price": 12.00
+  },
+  {
+    "from_location": "Accra",
+    "to_location": "Cape Coast",
+    "min_price": 6.50,
+    "max_price": 9.00
+  },
+  {
+    "from_location": "Kumasi",
+    "to_location": "Tamale",
+    "min_price": 10.00,
+    "max_price": 15.00
+  }
+]
