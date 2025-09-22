@@ -16,8 +16,8 @@
     "to_location": "Tamale",
     "min_price": 10.00,
     "max_price": 15.00
-  }
-{
+  },
+ {
     "from_location": "Amamorley",
     "to_location": "Kasoa",
     "min_price": 9.50,
