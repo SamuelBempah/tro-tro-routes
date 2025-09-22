@@ -17,10 +17,46 @@
     "min_price": 10.00,
     "max_price": 15.00
   },
- {
+  {
     "from_location": "Amamorley",
     "to_location": "Kasoa",
     "min_price": 9.50,
     "max_price": 15.00
+  },
+  {
+    "from_location": "Accra",
+    "to_location": "Takoradi",
+    "min_price": 7.00,
+    "max_price": 10.00
+  },
+  {
+    "from_location": "Tamale",
+    "to_location": "Bolgatanga",
+    "min_price": 8.50,
+    "max_price": 12.50
+  },
+  {
+    "from_location": "Kumasi",
+    "to_location": "Sunyani",
+    "min_price": 6.00,
+    "max_price": 9.50
+  },
+  {
+    "from_location": "Cape Coast",
+    "to_location": "Takoradi",
+    "min_price": 4.50,
+    "max_price": 7.00
+  },
+  {
+    "from_location": "Accra",
+    "to_location": "Ho",
+    "min_price": 5.50,
+    "max_price": 8.50
+  },
+  {
+    "from_location": "Kumasi",
+    "to_location": "Obuasi",
+    "min_price": 3.50,
+    "max_price": 5.50
   }
 ]
