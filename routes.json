@@ -1594,6 +1594,2035 @@
     "min_price": 3.00,
     "max_price": 5.00,
     "look_out_for": "Omanjor, CMB, Sowutuom"
-  }
+  },
+{
+  "from_location": "Omanjor Station",
+  "to_location": "Kaneshie Mkt Cmplx",
+  "min_price": 2.50,
+  "max_price": 4.00,
+  "look_out_for": "Omanjor, Kaneshie, Sowutuom"
+},
+{
+  "from_location": "Omanjor Station",
+  "to_location": "Abeka Lapaz",
+  "min_price": 3.00,
+  "max_price": 5.00,
+  "look_out_for": "Omanjor, Lapaz, Kwashieman"
+},
+{
+  "from_location": "Sowutuom Station",
+  "to_location": "Accra CMB",
+  "min_price": 2.50,
+  "max_price": 4.00,
+  "look_out_for": "Sowutuom, CMB, Kwashieman"
+},
+{
+"from_location": "Sowutuom Station",
+"to_location": "Darkuman Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Sowutuom, Darkuman, Kwashieman"
+},
+{
+"from_location": "Sowutuom Station",
+"to_location": "Circle Odorna Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Sowutuom, Circle, Kaneshie"
+},
+{
+"from_location": "Santa Maria",
+"to_location": "Circle Odorna Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Santa Maria, Circle, Kwashieman"
+},
+{
+"from_location": "Santa Maria",
+"to_location": "Kaneshie Mkt Cmplx",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Santa Maria, Kaneshie, Sowutuom"
+},
+{
+"from_location": "Santa Maria",
+"to_location": "Achimota Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Santa Maria, Achimota, Lapaz"
+},
+{
+"from_location": "Anyaa Market Station",
+"to_location": "Kaneshie Mkt Cmplx",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Anyaa, Kaneshie, Odorkor"
+},
+{
+"from_location": "Anyaa Market Station",
+"to_location": "Circle Odorna Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Anyaa, Circle, Kaneshie"
+},
+{
+"from_location": "Anyaa Market Station",
+"to_location": "Abeka Lapaz",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Anyaa, Lapaz, Odorkor"
+},
+{
+"from_location": "Auntie Aku Station",
+"to_location": "Kaneshie Mkt Cmplx",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Auntie Aku, Kaneshie, Kwashieman"
+},
+{
+"from_location": "Auntie Aku Station",
+"to_location": "Abeka Lapaz",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Auntie Aku, Lapaz, Sowutuom"
+},
+{
+"from_location": "Auntie Aku Station",
+"to_location": "Circle Odorna Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Auntie Aku, Circle, Kaneshie"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Circle Odorna Station",
+"min_price": 1.50,
+"max_price": 3.00,
+"look_out_for": "New Tema, Circle, Odaw"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Kaneshie Mkt Cmplx",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "New Tema, Kaneshie, Circle"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Nungua Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "New Tema, Nungua, Teshie"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Madina Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "New Tema, Madina, Circle"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Osu Blow Up",
+"min_price": 1.50,
+"max_price": 3.00,
+"look_out_for": "New Tema, Osu, Labadi"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "37 Lorry Park",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "New Tema, 37, Osu"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Darkuman Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "New Tema, Darkuman, Kaneshie"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Dansoman Laststop",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "New Tema, Dansoman, Kaneshie"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Korle Bu Station",
+"min_price": 1.50,
+"max_price": 3.00,
+"look_out_for": "New Tema, Korle Bu, Kaneshie"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Mallam Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "New Tema, Mallam, Kaneshie"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Achimota Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "New Tema, Achimota, Circle"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Abeka Lapaz",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "New Tema, Lapaz, Achimota"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Kasoa Station",
+"min_price": 6.00,
+"max_price": 8.00,
+"look_out_for": "New Tema, Kasoa, Mallam"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Adenta Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "New Tema, Adenta, Madina"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Tema Main Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "New Tema, Tema Main, Ashaiman"
+},
+{
+"from_location": "Accra New Tema Station",
+"to_location": "Ashaiman Station",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "New Tema, Ashaiman, Tema"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Circle Odorna Station",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Adenta, Circle, Madina"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Kaneshie Mkt Cmplx",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Adenta, Kaneshie, Circle"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Abeka Lapaz",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Adenta, Lapaz, Achimota"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Accra New Tema Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Adenta, New Tema, Madina"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Nima Overhead Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Adenta, Nima, Madina"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "37 Lorry Park",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Adenta, 37, Madina"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Osu Blow Up",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Adenta, Osu, Circle"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Achimota Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Adenta, Achimota, Madina"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Darkuman Station",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Adenta, Darkuman, Circle"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Korle Bu Station",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Adenta, Korle Bu, Circle"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Dansoman Laststop",
+"min_price": 5.00,
+"max_price": 7.00,
+"look_out_for": "Adenta, Dansoman, Circle"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Mallam Station",
+"min_price": 5.00,
+"max_price": 7.00,
+"look_out_for": "Adenta, Mallam, Circle"
+},
+{
+"from_location": "Adenta Station",
+"to_location": "Kasoa Station",
+"min_price": 7.00,
+"max_price": 9.00,
+"look_out_for": "Adenta, Kasoa, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Odorna Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kaneshie Mkt Cmplx",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Kaneshie, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Nima Overhead Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Nima, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Osu Blow Up",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Osu, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "37 Lorry Park",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, 37, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Darkuman Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Darkuman, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Korle Bu Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Korle Bu, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Dansoman Laststop",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Dansoman, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mallam Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Mallam, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kasoa Station",
+"min_price": 6.00,
+"max_price": 8.00,
+"look_out_for": "Achimota, Kasoa, Mallam"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Nungua Station",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Achimota, Nungua, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Madina Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Madina, Legon"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra New Tema Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Tema, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Abeka Lapaz",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Lapaz, Kwashieman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Dome Pillar 2 Station",
+"min_price": 1.50,
+"max_price": 3.00,
+"look_out_for": "Achimota, Dome Pillar 2, Taifa"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Sowutuom Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Sowutuom, Kwashieman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Santa Maria",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Santa Maria, Kwashieman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Anyaa Market Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Anyaa, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Auntie Aku Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Auntie Aku, Sowutuom"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Amasaman",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Amasaman, Pokuase"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Asofan Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Asofan, Pokuase"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kotoku Terminal",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Kotoku, Pokuase"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mayera Last Stop",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Mayera, Amasaman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Sarpeiman",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Sarpeiman, Amasaman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Adeiman",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Adeiman, Amasaman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agbogba",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Agbogba, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agape Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agape, Taifa"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ashognman Estate",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ashognman, Haatso"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Haatso",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Haatso, Ashognman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kuntunse - Satelite",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Kuntunse, Amasaman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Akweteman Zongo",
+"min_price": 1.50,
+"max_price": 3.00,
+"look_out_for": "Achimota, Akweteman Zongo, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Fise Junction",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Fise, Amasaman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Adusa Quarters",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Adusa, Dome"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Israel Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Israel, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ashalaja",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Ashalaja, Amasaman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Yellow House",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Yellow House, Santa Maria"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra CMB",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, CMB, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Alajo Taxi Rank",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Alajo, Kotobabi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Pig Farm Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Pig Farm, Kotobabi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "New Town Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Maamobi-Nima Terminal",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Maamobi, Nima"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Dzorwulu Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Dzorwulu, Abelemkpe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Abelemkpe Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Abelemkpe, Dzorwulu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Okponglo Taxi Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Okponglo, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "American House",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, American House, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Baweleshi",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Baweleshi, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Adjiringanor",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Adjiringanor, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Nyaho",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Nyaho, Airport"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Christian",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Christian, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ashaley Botwe",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Ashaley Botwe, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Abeka Market Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Abeka, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Bubiashie Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Bubiashie, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Bubiashie Ayigbe Town",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Bubiashie, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Bubiashie Atico Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Bubiashie, Atico"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Bubiashie Control",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Bubiashie, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Tabora Alhaji Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Tabora Alhaji, Darkuman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "A-Lang Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, A-Lang, Kwashieman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "New Fadama",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Fadama, Darkuman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Old Melcom 2",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Old Melcom, Darkuman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "New Melcom",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, New Melcom, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Awoshie Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Awoshie, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Sotuom VRA",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Sotuom, Kwashieman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Gbawe Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Gbawe, Mallam"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra Novotel",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Novotel, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra UTC",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, UTC, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra Post Office",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Post Office, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Rawlings Park",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Rawlings Park, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra Zongo Lane",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zongo Lane, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Apapa Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Apapa, Labadi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agblezah Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Agblezah, Nungua"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Tsui Bleeo",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Tsui Bleeo, Nungua"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Sakumono Station",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Achimota, Sakumono, Nungua"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Tema Newtown Terminal",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Achimota, Tema Newtown, Ashaiman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Tema Main Habour Round About",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Achimota, Tema Habour, Ashaiman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ashaiman Overhead",
+"min_price": 4.00,
+"max_price": 6.00,
+"look_out_for": "Achimota, Ashaiman, Tema"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Omanjor Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Omanjor, Sowutuom"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Yellow House",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Yellow House, Santa Maria"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra Bishop",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Bishop, Glefe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ebenezer",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ebenezer, Glefe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Glefe",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Glefe, Bishop"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Cantonments Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Cantonments, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Blue Lagoon",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Blue Lagoon, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "La Olympia Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, La Olympia, Labadi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Osu Penta",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Osu Penta, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ridge Hospital",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ridge Hospital, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Teachers Hall",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Teachers Hall, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Coporative Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Opps. Vodafone",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Lido",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Odor Rise",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "New Town Timber Market",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra New Town Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Caprice",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Caprice, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra UTC Taxi Rank",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, UTC, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Alhaji",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Alhaji, Tabora"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Last Stop (SSNIT Market)",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, SSNIT Market, Awoshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "D.K. Last Stop",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, D.K. Last Stop, Kwabenya"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Lomnava Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Lomnava, Kwabenya"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Aunti Eku Pallas Town",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Pallas Town, Nyamekye"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Nyamekye",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Nyamekye, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Hansonic",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Hansonic, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Immesco",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Immesco, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agbogbloshie Station No. 2",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agbogbloshie, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Shiabu",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Shiabu, Mamprobi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agege",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agege, Dansoman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamprobi Camara",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamprobi, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamprobi C. Lante",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamprobi, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Sukura Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Sukura, Mamprobi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Zongo Junction",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zongo, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamponse Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamponse, Darkuman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Zamrara Line",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zamrara, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Salaga Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Salaga, Odaw"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Chemuna Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Chemuna, Odaw"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Makola Tudu",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Makola, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Banana Inn Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Banana Inn, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kokomlemle",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Kokomlemle, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Alajo Junction",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Alajo, Kotobabi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kotobabi Police Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Kotobabi, Pig Farm"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Last Stop (SSNIT Market)",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, SSNIT Market, Awoshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Opetekwei Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Opetekwei, Mallam"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Abossey Okai Camara Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Abossey Okai, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra End of Motorway",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Motorway, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra Bishop",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Bishop, Glefe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ebenezer",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ebenezer, Glefe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Glefe",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Glefe, Bishop"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Cantonments Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Cantonments, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Blue Lagoon",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Blue Lagoon, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "La Olympia Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, La Olympia, Labadi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Osu Penta",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Osu Penta, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ridge Hospital",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ridge Hospital, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Teachers Hall",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Teachers Hall, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Coporative Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Opps. Vodafone",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Lido",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Odor Rise",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "New Town Timber Market",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra New Town Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Caprice",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Caprice, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra UTC Taxi Rank",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, UTC, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Alhaji",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Alhaji, Tabora"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Last Stop (SSNIT Market)",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, SSNIT Market, Awoshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "D.K. Last Stop",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, D.K. Last Stop, Kwabenya"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Lomnava Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Lomnava, Kwabenya"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Aunti Eku Pallas Town",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Pallas Town, Nyamekye"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Nyamekye",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Nyamekye, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Hansonic",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Hansonic, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Immesco",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Immesco, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agbogbloshie Station No. 2",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agbogbloshie, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Shiabu",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Shiabu, Mamprobi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agege",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agege, Dansoman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamprobi Camara",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamprobi, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamprobi C. Lante",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamprobi, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Sukura Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Sukura, Mamprobi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Zongo Junction",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zongo, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamponse Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamponse, Darkuman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Zamrara Line",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zamrara, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Salaga Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Salaga, Odaw"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Chemuna Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Chemuna, Odaw"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Makola Tudu",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Makola, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Banana Inn Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Banana Inn, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kokomlemle",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Kokomlemle, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Alajo Junction",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Alajo, Kotobabi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kotobabi Police Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Kotobabi, Pig Farm"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Last Stop (SSNIT Market)",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, SSNIT Market, Awoshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Opetekwei Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Opetekwei, Mallam"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Abossey Okai Camara Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Abossey Okai, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra End of Motorway",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Motorway, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra Bishop",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Bishop, Glefe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ebenezer",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ebenezer, Glefe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Glefe",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Glefe, Bishop"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Cantonments Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Cantonments, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Blue Lagoon",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Blue Lagoon, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "La Olympia Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, La Olympia, Labadi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Osu Penta",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Osu Penta, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ridge Hospital",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ridge Hospital, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Teachers Hall",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Teachers Hall, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Coporative Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Opps. Vodafone",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Lido",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Odor Rise",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "New Town Timber Market",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra New Town Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Caprice",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Caprice, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra UTC Taxi Rank",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, UTC, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Alhaji",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Alhaji, Tabora"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Last Stop (SSNIT Market)",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, SSNIT Market, Awoshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "D.K. Last Stop",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, D.K. Last Stop, Kwabenya"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Lomnava Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Lomnava, Kwabenya"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Aunti Eku Pallas Town",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Pallas Town, Nyamekye"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Nyamekye",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Nyamekye, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Hansonic",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Hansonic, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Immesco",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Immesco, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agbogbloshie Station No. 2",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agbogbloshie, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Shiabu",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Shiabu, Mamprobi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agege",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agege, Dansoman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamprobi Camara",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamprobi, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamprobi C. Lante",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamprobi, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Sukura Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Sukura, Mamprobi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Zongo Junction",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zongo, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamponse Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamponse, Darkuman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Zamrara Line",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zamrara, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Salaga Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Salaga, Odaw"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Chemuna Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Chemuna, Odaw"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Makola Tudu",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Makola, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Banana Inn Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Banana Inn, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kokomlemle",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Kokomlemle, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Alajo Junction",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Alajo, Kotobabi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Kotobabi Police Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Kotobabi, Pig Farm"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Last Stop (SSNIT Market)",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, SSNIT Market, Awoshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Opetekwei Station",
+"min_price": 3.00,
+"max_price": 5.00,
+"look_out_for": "Achimota, Opetekwei, Mallam"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Abossey Okai Camara Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Abossey Okai, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra End of Motorway",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Motorway, Madina"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra Bishop",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Bishop, Glefe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ebenezer",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ebenezer, Glefe"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Glefe",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Glefe, Bishop"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Cantonments Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Cantonments, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Blue Lagoon",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Blue Lagoon, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "La Olympia Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, La Olympia, Labadi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Osu Penta",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Osu Penta, Osu"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Ridge Hospital",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Ridge Hospital, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Teachers Hall",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Teachers Hall, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Coporative Station",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Opps. Vodafone",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Lido",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Lapaz"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Circle Odor Rise",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Circle, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "New Town Timber Market",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra New Town Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, New Town, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Caprice",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Caprice, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Accra UTC Taxi Rank",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, UTC, Circle"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Alhaji",
+"min_price": 2.00,
+"max_price": 3.50,
+"look_out_for": "Achimota, Alhaji, Tabora"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Last Stop (SSNIT Market)",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, SSNIT Market, Awoshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "D.K. Last Stop",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, D.K. Last Stop, Kwabenya"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Lomnava Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Lomnava, Kwabenya"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Aunti Eku Pallas Town",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Pallas Town, Nyamekye"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Nyamekye",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Nyamekye, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Hansonic",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Hansonic, Odorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Immesco",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Immesco, Odorna"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agbogbloshie Station No. 2",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agbogbloshie, Kaneshie"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Shiabu",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Shiabu, Mamprobi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Agege",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Agege, Dansoman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamprobi Camara",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamprobi, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamprobi C. Lante",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamprobi, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Sukura Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Sukura, Mamprobi"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Zongo Junction",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zongo, Chorkor"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Mamponse Station",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Mamponse, Darkuman"
+},
+{
+"from_location": "Achimota Station",
+"to_location": "Zamrara Line",
+"min_price": 2.50,
+"max_price": 4.00,
+"look_out_for": "Achimota, Zamrara, Circle"
+},
+{
+  "from_location": "Achimota Station",
+  "to_location": "Salaga Station",
+  "min_price": 2.50,
+  "max_price": 4.00,
+  "look_out_for": "Achimota, Salaga, Circle"
+}
 ]
-
